@@ -23,14 +23,14 @@ repository               : "jareds-laf/jaredsofair.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Jared Sofair"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   employer         : "Boston University"
   uri              : # URL
-  email            : "sofair [at] bu [dot] edu" 
+  testemail            : "sofair [at] bu [dot] edu" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Jared Sofair"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
